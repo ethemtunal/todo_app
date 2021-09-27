@@ -21,7 +21,6 @@ class item{
 		remove.innerHTML = '<i class="fas fa-trash"></i>';
 		remove.onclick = function () {
 			container.removeChild(this.parentElement);
-			//this.parentElement.removeChild(this.parentElement);
 		};
 		container.appendChild(l1);
 
