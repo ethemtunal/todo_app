@@ -120,6 +120,7 @@ h1
 .strike_text
 {
 	text-decoration: line-through;
+	font-style: italic;
 }
 
 .remove_btn
